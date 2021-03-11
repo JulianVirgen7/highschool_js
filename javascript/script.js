@@ -51,3 +51,29 @@ let str = '';
 for (let i = 2; i < 7; i++) {
   str = str + i;
 }
+
+//lab 50
+
+let sum = 5 + 3 + 4 + 8;
+let divide = 10 / 5;
+console.log(3 * 4 * 2);
+console.log(20 - 12);
+
+//lab 51
+let books = ['Star Wars', 'Harry Potter', 'Dairy of a Wimpy Kid', 
+'Of Mice and Men', 'Lord of The Rings', 'The cat in the hat',
+'the hunger games', 'the hobbit', 'the haunted museum', 'the lorax' ]
+
+console.log(books.length)
+// 10
+
+let first = books[0]
+// Star Wars
+
+let last = books[books.length - 1]
+// the lorax
+
+let numbers =[2,4,6,8,10]
+
+console.log(3 * 4 * 10)
+
