@@ -77,3 +77,21 @@ let numbers =[2,4,6,8,10]
 
 console.log(3 * 4 * 10)
 
+//lab 52
+
+let i = 0;
+do {
+  i += 1;
+  console.log(i);
+} while (i < 10);
+
+console.log(5**5) 
+console.log(4**4)
+console.log(7**7)
+console.log(8**8)
+console.log(2**2)
+console.log(9**9)
+console.log(10**10)
+console.log(15**15)
+console.log(25**25)
+console.log(6**6)
